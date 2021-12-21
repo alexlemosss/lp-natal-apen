@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    max-width: 180px;
+
+    margin-top: 25px;
+    
+}
+
+.containerNatal{
+
+    background-image: url("./asset/Fundo\ de\ Relatório.png");
+    background-position: center;
+    background-size: cover;
+
+    text-align: center;
+
+}
+
+.containerNatal h1{
+    
+    padding-top: 100px;
+
+    margin-bottom: 15px;
+
+    color: white;
+
+}
+
+.containerNatal p{
+
+    margin: 20px 10px 40px 10px;
+
+    padding-bottom: 40px;
+
+    color: white;
+
+}
+
+.containerNatal h2{
+    
+    display: inline-block;
+
+    margin-bottom: 40px;
+
+    font-size: 15px;
+
+    border-radius: 50px;
+
+    box-shadow: 0px 0px 3px 1px #00000042;;
+
+    background-color: rgb(37, 37, 216);
+
+    padding: 10px;
+}
+
+.containerNatal h2:hover{
+    background-color: rgb(36, 36, 247);
+}
+
+a:visited{
+    color: white;
+    text-decoration: none;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+
+}
+
+a:active{
+    color: white;
+    text-decoration: none;
+}
+
+main{
+
+    margin-top: 40px;
+
+    display: flex;
+    justify-content: center;
+}
+
+form{
+    text-align: center;
+}
+
+.inputNameEmailTelefone{
+    display: flex;
+    margin-bottom: 5px;
+    padding: 10px 35px 10px 35px;
+
+    border-radius: 5px;
+    border: 0.5px rgba(0, 0, 0, 0.192) solid;
+}
+
+.opcoes{
+    margin-top: 20px;
+
+    text-align: center;
+}
+
+li{
+    list-style: none;
+
+    margin-top: 5px;
+
+    display: flex;
+
+    margin-left: 15px;
+}
+
+label{
+
+    margin-left: 15px;
+
+}
+
+
+.enviar{
+
+    margin-top: 20px;
+    
+    margin-bottom: 40px;
+
+    width: 220px;
+
+    color: white;
+
+    font-size: 15px;
+
+    border: none;
+
+    border-radius: 10px;
+
+    box-shadow: 0px 0px 3px 1px #00000042;;
+
+    background-color: rgb(24, 24, 167);
+
+    padding: 10px;
+    
+    cursor: pointer;
+}
+
+.enviar:hover{
+    background-color: rgb(36, 36, 247);
+}
+
+ul{
+    margin-top: 15px;
+}
