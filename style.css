@@ -22,6 +22,53 @@ img{
 
 }
 
+/* ------- */
+
+.containerNatal2{
+
+    background-image: url("./asset/Fundo\ de\ Relatório.png");
+    background-position: center;
+    background-size: cover;
+
+    text-align: center;
+
+    height: 100vh;
+
+}
+
+.containerNatal2 h1{
+    
+    padding-top: 150px;
+
+    margin-bottom: 15px;
+
+    color: white;
+
+}
+
+.containerNatal2 p{
+
+    text-align: justify;
+
+    margin: 20px 20px 40px 20px;
+
+    padding-bottom: 40px;
+
+    color: white;
+
+}
+
+.containerNatal2 h2{
+    
+    padding-top: 70px;
+
+    margin-bottom: 15px;
+
+    color: white;
+}
+
+/* ------- */
+
 .containerNatal h1{
     
     padding-top: 70px;
@@ -44,26 +91,16 @@ img{
 
 }
 
+
 .containerNatal h2{
     
-    display: inline-block;
+    padding-top: 70px;
 
-    margin-bottom: 40px;
+    margin-bottom: 15px;
 
-    font-size: 15px;
-
-    border-radius: 50px;
-
-    box-shadow: 0px 0px 3px 1px #00000042;;
-
-    background-color: rgb(37, 37, 216);
-
-    padding: 10px;
+    color: white;
 }
 
-.containerNatal h2:hover{
-    background-color: rgb(36, 36, 247);
-}
 
 a:visited{
     color: white;
