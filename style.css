@@ -76,7 +76,7 @@ img{
 
 .containerNatal h1{
     
-    padding-top: 70px;
+    padding-top: 50px;
 
     margin-bottom: 15px;
 
@@ -198,6 +198,7 @@ label{
 
 ul{
     margin-top: 15px;
+    color: rgb(75, 75, 233);
 }
 
 .opcoes strong{
