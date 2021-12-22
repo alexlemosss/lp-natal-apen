@@ -22,6 +22,11 @@ img{
 
 }
 
+.amarelo{
+    background-color: yellow;
+    color: black;
+}
+
 /* ------- */
 
 .containerNatal2{
@@ -38,7 +43,7 @@ img{
 
 .containerNatal2 h1{
     
-    padding-top: 150px;
+    padding-top: 130px;
 
     margin-bottom: 15px;
 
@@ -193,4 +198,8 @@ label{
 
 ul{
     margin-top: 15px;
+}
+
+.opcoes strong{
+    font-weight: 300;
 }
